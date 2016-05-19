@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 import UIKit
-import 'Frameworks/WatchOS/CoreText'
+import CoreText
 
 // MARK: - Public
 
